@@ -1,0 +1,23 @@
+.contactUs{
+    display: flex;
+    gap: 2rem;
+    padding-block: 10rem;
+}
+.contact_content{
+    display: ;
+}
+.contact_links{
+    display: flex;
+    flex-direction: column;
+    background-color: #2A3238;
+    width: 242px;
+    height: 308px;
+    border-radius: 20px;
+}
+.contact_links a {
+    text-decoration: none;
+    color: #FFFFFF99;
+}
+.contact_links a.active{
+    color: #FFFFFF;
+}

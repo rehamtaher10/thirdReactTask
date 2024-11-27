@@ -1,0 +1,7 @@
+.contactUs{
+    display: flex;
+    flex-direction: row;
+}
+.contact_content{
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+.contactUs{
+    display: flex;
+    gap: 2rem;
+    flex-direction: row;
+}
+.contact_content{
+    text-align: center;
+}

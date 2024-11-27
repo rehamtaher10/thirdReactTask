@@ -1,0 +1,29 @@
+.navbar{
+    padding-inline: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-block: 1em;
+    background-color: transparent;
+    margin-block: 2em;
+}
+.navbar h1{
+    font-size: 40px;
+    color: #2A3238;
+}
+.navbar_menu ul {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    font-size: 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #2A323899;
+}
+ a.active{
+    color: #2A3238;
+}
+.navbar button{
+    ba
+}

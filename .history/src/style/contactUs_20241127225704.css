@@ -1,0 +1,17 @@
+.contactUs{
+    display: flex;
+}
+.contact_content{
+    text-align: center;
+}
+.contact_links{
+    display: flex;
+    flex-direction: ;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF99;
+}
+ a.active{
+    color: #FFFFFF;
+}
