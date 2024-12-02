@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(241, 238, 238);
+}
+.loginComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.loginComponent h1{
+    font-size: 4rem;
+    text-transform: uppercase;
+}
